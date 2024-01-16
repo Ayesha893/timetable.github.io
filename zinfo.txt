@@ -1,0 +1,6 @@
+There is only 1 'Head Section' of the application who will responsible for generating timetables:
+
+whenever he/she add any subject to timetable its require permission from admin if admin allow the subject then that subject will be the part of the timetable.
+
+
+Note: This is highly relationaly so avoid deleting rows from tables:
